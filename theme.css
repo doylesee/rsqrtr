@@ -439,7 +439,7 @@ a.column-tiles__item p {
 	background-size: cover;
 	color: #fff;
 	min-height: 480px;
-	padding: 60px;
+	padding: 30px;
 	position: relative;
 }
 .image-grid--left {
@@ -581,6 +581,10 @@ footer ul li a {
 		padding: 70px 50px;
 	}
 
+	/* 640 Image Grid */
+	.image-grid {
+		padding: 60px;
+	}
 }
 @media only screen and (min-width: 1024px) {
 	/* 1024 */
