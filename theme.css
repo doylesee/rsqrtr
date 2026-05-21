@@ -439,7 +439,7 @@ a.column-tiles__item p {
 	background-size: cover;
 	color: #fff;
 	min-height: 480px;
-	padding: 30px;
+	padding: 60px 30px;
 	position: relative;
 }
 .image-grid--left {
