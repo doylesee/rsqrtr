@@ -5,7 +5,6 @@ A couple of funky things but tried to stay on point with their branding guide.
 Did the designs in Figma:
 
 Dev Mode: https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1
-
 Prototype: https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1
 
 And here's the final HTML build:
