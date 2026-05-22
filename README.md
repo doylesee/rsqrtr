@@ -1,3 +1,7 @@
+I was originally supposed to build this one but another project got escalated to me, so I had to give this to another developer.
+I had a few extra hours one day, so I did a quick build of what it would've looked like if I had built it.
+A couple of funky things but tried to stay on point with their branding guide.
+
 Figma Designs
 
 Dev Mode: https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1
