@@ -16,7 +16,8 @@ https://doylesee.github.io/rsqrtr/
 <br />
 
 ## Implementation
-I was originally supposed to build this one but another project got escalated to me, so I had to give this to another developer. I had a few extra hours one day, so I did a quick build of what it would've looked like if I had built it. Using Figma, I quickly reviewed their corporate site to map out the styling, colors, and typography. From there, I hopped into the code to build the core layouts. There are a couple of funky things, but I tried to stay on point with their branding guide while ensuring the layout remained mobile-responsive and web-accessible.
+I was originally supposed to build this one but another project got escalated to me, so I had to give this to another developer. I had a few extra hours one day, so I did a quick build of what it would've looked like if I had built it.<br />
+Using Figma, I quickly reviewed their corporate site to map out the styling, colors, and typography. From there, I hopped into the code to build the core layouts. There are a couple of funky things, but I tried to stay on point with their branding guide while ensuring the layout remained mobile-responsive and web-accessible.
 
 <br />
 
