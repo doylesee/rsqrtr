@@ -1,7 +1,7 @@
 ## Project Overview
 <pre>
 <b>Project:</b>   Rose Quarter Careers
-<b>Role:</b>      UI/UX Designer & Lead UI/UX Developer
+<b>Role:</b>      UI/UX Designer & UI Developer
 <b>Tools:</b>     Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
