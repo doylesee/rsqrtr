@@ -10,8 +10,9 @@ Figma Designs:
  | 
 <a href="https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1">Prototype</a>
 
-And here's the final HTML build:
-https://doylesee.github.io/rsqrtr/
+And here's the final HTML build: https://doylesee.github.io/rsqrtr/
+
+<p><a href="https://github.com/doylesee/rsqrtr"><img src="https://github.com/doylesee/rsqrtr/thumbnail.png" /></a></p>
 
 <br />
 
