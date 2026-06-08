@@ -6,13 +6,13 @@
 </pre>
 
 View Figma:
-<strong><a href="https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1" target="_blank">Dev Mode</a></strong>
+<strong><a href="https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1" target="_blank" rel="noopener noreferrer">Dev Mode</a></strong>
  | 
-<strong><a href="https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1">Prototype</a></strong>
+<strong><a href="https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1" target="_blank" rel="noopener noreferrer">Prototype</a></strong>
 
-And here's the final HTML build: <strong><a href="https://doylesee.github.io/rsqrtr/">doylesee.github.io/rsqrtr</a></strong>
+And here's the final HTML build: <strong><a href="https://doylesee.github.io/rsqrtr/" rel="noopener noreferrer">doylesee.github.io/rsqrtr</a></strong>
 
-<p><a href="https://doylesee.github.io/rsqrtr"><img src="https://doylesee.github.io/rsqrtr/thumbnail.png" /></a></p>
+<p><a href="https://doylesee.github.io/rsqrtr" rel="noopener noreferrer"><img src="https://doylesee.github.io/rsqrtr/thumbnail.png" /></a></p>
 
 <br />
 
