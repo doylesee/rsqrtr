@@ -12,7 +12,7 @@ Figma Designs:
 
 And here's the final HTML build: https://doylesee.github.io/rsqrtr/
 
-<p><a href="https://github.com/doylesee/rsqrtr"><img src="https://github.com/doylesee/rsqrtr/thumbnail.png" /></a></p>
+<p><a href="https://doylesee.github.io/rsqrtr"><img src="https://doylesee.github.io/rsqrtr/thumbnail.png" /></a></p>
 
 <br />
 
