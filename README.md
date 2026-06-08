@@ -5,12 +5,11 @@
 <b>Tools:</b>     Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
-View Figma:
-<strong><a href="https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1" target="_blank" rel="noopener noreferrer">Dev Mode</a></strong>
- | 
-<strong><a href="https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1" target="_blank" rel="noopener noreferrer">Prototype</a></strong>
-
-And here's the final HTML build: <strong><a href="https://doylesee.github.io/rsqrtr/" rel="noopener noreferrer">doylesee.github.io/rsqrtr</a></strong>
+<strong><a href="https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1" target="_blank" rel="noopener noreferrer">Figma Dev Mode</a></strong>
+&nbsp;&nbsp;
+<strong><a href="https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1" target="_blank" rel="noopener noreferrer">Figma Prototype</a></strong>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<strong><a href="https://doylesee.github.io/rsqrtr/" rel="noopener noreferrer">View Project</a></strong>
 
 <p><a href="https://doylesee.github.io/rsqrtr" rel="noopener noreferrer"><img src="https://doylesee.github.io/rsqrtr/thumbnail.png" /></a></p>
 
@@ -25,3 +24,5 @@ Using Figma, I quickly reviewed their corporate site to map out the styling, col
 
 ## Results
 This rapid Proof of Concept (POC) served as an excellent visual and technical anchor for the project. By spending those few extra hours prototyping the frontend, I was able to build a functional blueprint. The final prototype successfully demonstrated how the career site's aesthetics could work seamlessly with their corporate site while maintaining a strong foundation for responsiveness and accessibility.
+
+<br /><strong><a href="https://doylesee.github.io/rsqrtr/" rel="noopener noreferrer">View project</a></strong>
