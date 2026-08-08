@@ -21,3 +21,5 @@ Using Figma, I quickly reviewed their corporate site to map out the styling, col
 
 ## Results
 This rapid Proof of Concept (POC) served as an excellent visual and technical anchor for the project. By spending those few extra hours prototyping the frontend, I was able to build a functional blueprint. The final prototype successfully demonstrated how the career site's aesthetics could work seamlessly with their corporate site while maintaining a strong foundation for responsiveness and accessibility.
+
+Check out the [Figma design](https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1) and [Figma Prototype](https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1) or [view the project](https://doylesee.github.io/rsqrtr/).
