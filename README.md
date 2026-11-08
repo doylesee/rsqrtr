@@ -6,7 +6,7 @@
 </pre>
 
 ### Table of Contents
-* [The Implementation](#implementation)
+* [Implementation](#implementation)
 * [Results](#results)
 * [Figma Dev](https://www.figma.com/design/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&m=dev&t=hW1KINPMBjLCwRhs-1) / [Figma Prototype](https://www.figma.com/proto/OUMCkJ2r7k9IlPnXGwrX4X/Rose-Quarter?node-id=0-1&t=hW1KINPMBjLCwRhs-1)
 * [View Project](https://doylesee.github.io/rsqrtr)
