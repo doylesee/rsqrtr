@@ -12,6 +12,10 @@
 * [View Project](https://doylesee.github.io/rsqrtr)
 <br />
 
+<a href="https://doylesee.github.io/rsqrtr/">
+  <img src="screenshot.jpg" alt="" width="100%">
+</a>
+
 ## Implementation
 I was originally supposed to build this one but another project got escalated to me, so I had to give this to another developer. I had a few extra hours one day, so I did a quick build of what it would've looked like if I had built it.
 
